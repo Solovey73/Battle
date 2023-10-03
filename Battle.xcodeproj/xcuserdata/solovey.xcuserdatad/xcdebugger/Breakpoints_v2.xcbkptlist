@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE55D798-A612-47B6-B773-BA92BBA70567"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD3F857-112D-4DC9-84BF-477272EE838A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Battle/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "&#x432;&#x43e;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x438;&#x442;&#x44c;&#x417;&#x434;&#x43e;&#x440;&#x43e;&#x432;&#x44c;&#x435;(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DD3F857-112D-4DC9-84BF-477272EE838A - 2633fd74268b3950"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Battle.ViewController.&#x432;&#x43e;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x438;&#x442;&#x44c;&#x417;&#x434;&#x43e;&#x440;&#x43e;&#x432;&#x44c;&#x435;(__C.UIButton) -&gt; ()"
+                  moduleName = "Battle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/solovey/Desktop/Battle/Battle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "2DD3F857-112D-4DC9-84BF-477272EE838A - 2633fd74268b3950"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Battle.ViewController.&#x432;&#x43e;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x438;&#x442;&#x44c;&#x417;&#x434;&#x43e;&#x440;&#x43e;&#x432;&#x44c;&#x435;(__C.UIButton) -&gt; ()"
+                  moduleName = "Battle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/solovey/Desktop/Battle/Battle/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
